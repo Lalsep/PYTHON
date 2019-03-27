@@ -22,3 +22,8 @@ x = 1
 x *= x+1
 print ("x = " , x )
 
+#teraz zadanie 10
+lst = ['mama', 'tata', 'bobas']
+for e in lst:
+    print(e)
+print(len(lst))
