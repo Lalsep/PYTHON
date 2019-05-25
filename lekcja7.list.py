@@ -6,8 +6,10 @@ print("\n")
 print("koniec listy")
 
 a.append(9)
+print(a)
 a.append("lista jest dluga")
 print(a)
+
 for e in a:
     print(e, end=", ")
 print("\n")
