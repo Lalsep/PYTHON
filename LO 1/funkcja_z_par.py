@@ -1,15 +1,17 @@
 #a teraz funkcja z parametrem
-def moja_funkcja(x):
-	return 2*x
-x = 2
-a = moja_funkcja(x)
-print (a)
-#a to zmienna, która zwraca wynik działania funkcji z parametrem
-x = int (input("Podaj dowolną liczbe  "))
-print ('podałeś x  =  ', x)
-print('a teraz zastosujemy funkcję z argumentem x  ')
-a = moja_funkcja(x)
-print (a)
+# def moja_funkcja(x):
+# 	x+=1
+# 	return 2*x
+# x = int(input('podaj liczbe calkowita   '))
+# print('podales liczbe x =', x)
+# a = moja_funkcja(x)
+# print ('wynik dzialania funkcji jest ', a)
+# a to zmienna, która zwraca wynik działania funkcji z parametrem
+# x = int (input("Podaj dowolną liczbe  "))
+# print ('podałeś x  =  ', x)
+# print('a teraz zastosujemy funkcję z argumentem x  ')
+# a = moja_funkcja(x)
+# print (a)
 
 # a teraz kalkulator BMi
 
