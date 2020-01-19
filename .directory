@@ -1,5 +1,9 @@
 [Dolphin]
 SortRole=modificationtime
+<<<<<<< HEAD
 Timestamp=2020,1,12,18,58,42
+=======
+Timestamp=2020,1,12,19,2,27
+>>>>>>> 4f60532fea3209772ed65578aed929616cefb5cc
 Version=4
 ViewMode=1
