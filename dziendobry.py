@@ -1,11 +1,10 @@
-#pierwszy program w Pythonie
-print("To jest pierwszy program w Pythonie")
-for i in range(1,11):
-    print (i,". raz")
-print ("koniec programu")
+# pierwszy program w Pythonie
 
-b =50
+b = 50
 print ("zmienna b = ", b)
 
 c = int(input("Podaj zmienna c "))
-print("zmienna c = ", c)
+print ("zmienna c = ", c)
+
+d = float(input ("Podaj liczbę e  "))
+print("zmienna d = ", d)
