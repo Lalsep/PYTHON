@@ -1,0 +1,1 @@
+print("dzien dobry klasa 1 LO")
